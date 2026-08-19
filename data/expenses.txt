@@ -1,1 +1,60 @@
 
+^[[200~^[[201~p@Muttu45 ➜ /workspaces/python_expense_tracker (main) $ python main.py
+
+===================================
+       EXPENSE TRACKER
+===================================
+1. Add Expense
+2. View Expenses
+3. Summarize by Category
+4. Exit
+===================================
+Enter your choice: 1
+
+--- Add Expense ---
+Enter amount: 2
+Enter category: 3
+Enter date (YYYY-MM-DD): 2003-09-02
+Expense added successfully!
+
+===================================
+       EXPENSE TRACKER
+===================================
+1. Add Expense
+2. View Expenses
+3. Summarize by Category
+4. Exit
+===================================
+Enter your choice: 2
+
+--- All Expenses ---
+Amount      Category            Date
+---------------------------------------------
+2.00        3                   2003-09-02
+
+===================================
+       EXPENSE TRACKER
+===================================
+1. Add Expense
+2. View Expenses
+3. Summarize by Category
+4. Exit
+===================================
+Enter your choice: 2
+
+--- All Expenses ---
+Amount      Category            Date
+---------------------------------------------
+2.00        3                   2003-09-02
+
+===================================
+       EXPENSE TRACKER
+===================================
+1. Add Expense
+2. View Expenses
+3. Summarize by Category
+4. Exit
+===================================
+Enter your choice: 4
+Exiting Expense Tracker. Goodbye!
+@Muttu45 ➜ /workspaces/python_expense_tracker (main) $ 
